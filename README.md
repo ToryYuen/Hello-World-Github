@@ -1,5 +1,5 @@
 # Hello-World-Github
 
-Hi, I'm Tory from CUHK
+Hi, I'm Yuen Sik To
 
-My Id:1155144126
+My student number is 1155144126.
